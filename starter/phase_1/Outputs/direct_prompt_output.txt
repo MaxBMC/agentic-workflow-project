@@ -1,0 +1,2 @@
+The capital of France is Paris.
+Knowledge source: The agent used the general knowledge contained in the selected LLM model, because no additional external knowledge or custom context was provided.

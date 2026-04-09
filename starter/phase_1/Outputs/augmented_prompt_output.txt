@@ -1,0 +1,2 @@
+Dear students, the capital of France is Paris.
+The agent likely used the general knowledge contained in the underlying LLM to answer the prompt, because no external knowledge source or custom factual reference was provided. The system prompt influenced the style and framing of the response by making the agent adopt the college professor persona and begin its answer with 'Dear students,'.
